@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TechExplorer-priya
 - 👀 I’m interested in coding
 - 🌱 I’m currently enhanching c++,js
-- 💞️ I’m looking to collaborate on projects 
+- 🤝 I’m looking to collaborate on projects 
 - 📫 How to reach me ...Linkedin: www.linkedin.com/in/priya-rai-1b238425
                       OR G-mail: priya24work@gmail.com
 <!---
